@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="button_test_start">Начать тест</string>
+    <string name="button_next_question">Далее</string>
+    <string name="button_previous_question">Назад</string>
+    <string name="button_test_finish">Готово</string>
+    <string name="text_best_score">Лучший результат:</string>
+    <string name="text_count_tries">Количество попыток:</string>
+    <string name="text_test_name">Тест по мифам Древней Греции</string>
+    <string name="text_question_1">1. Что называется мифом?</string>
+    <string name="radiobutton_question_1_answer_1">народные легенды о древнем мире;</string>
+    <string name="radiobutton_question_1_answer_2">сказочное представление о жизни древних людей;</string>
+    <string name="radiobutton_question_1_answer_3">реальные исторические события,
+        отражённые в литературных памятниках;</string>
+    <string name="radiobutton_question_1_answer_4">сказания, передающие представления древних народов
+        о происхождении мира, о явлениях природы, о богах и легендарных героях.</string>
+    <string name="text_question_2">2. Как звали мать Геракла?</string>
+    <string name="radiobutton_question_2_answer_1">Алкмена;</string>
+    <string name="radiobutton_question_2_answer_2">Гея;</string>
+    <string name="radiobutton_question_2_answer_3">Афродита;</string>
+    <string name="radiobutton_question_2_answer_4">Деметра.</string>
+    <string name="text_question_3">3. Слугой какого царя стал Геракл,
+        когда повзрослел и поселился в городе Тиринфе?</string>
+    <string name="radiobutton_question_3_answer_1">Авгия;</string>
+    <string name="radiobutton_question_3_answer_2">Гелиоса;</string>
+    <string name="radiobutton_question_3_answer_3">Копрея;</string>
+    <string name="radiobutton_question_3_answer_4">Эврисфея.</string>
+    <string name="text_question_4">4. Как звали великого титана,
+        который держал на плечах небесный свод?</string>
+    <string name="radiobutton_question_4_answer_1">Авгий;</string>
+    <string name="radiobutton_question_4_answer_2">Атлас;</string>
+    <string name="radiobutton_question_4_answer_3">Гелиос;</string>
+    <string name="radiobutton_question_4_answer_4">Эврисфей.</string>
+    <string name="text_question_5">5. Что охраняли в саду дочери Атласа Геспериды?</string>
+    <string name="radiobutton_question_5_answer_1">вишни;</string>
+    <string name="radiobutton_question_5_answer_2">груши;</string>
+    <string name="radiobutton_question_5_answer_3">яблоки;</string>
+    <string name="radiobutton_question_5_answer_4">сливы.</string>
+    <string name="text_question_6">6. Кто указал Гераклу путь в сады Гесперид?</string>
+    <string name="radiobutton_question_6_answer_1">старец Нерей;</string>
+    <string name="radiobutton_question_6_answer_2">прекрасные нимфы;</string>
+    <string name="radiobutton_question_6_answer_3">великий титан Атлас;</string>
+    <string name="radiobutton_question_6_answer_4">дракон.</string>
+    <string name="text_question_7">7. На каком инструменте играл Арион?</string>
+    <string name="radiobutton_question_7_answer_1">гусли;</string>
+    <string name="radiobutton_question_7_answer_2">лютня;</string>
+    <string name="radiobutton_question_7_answer_3">лира;</string>
+    <string name="radiobutton_question_7_answer_4">кифара.</string>
+    <string name="text_question_8">8. На каком инструменте играл Арион?</string>
+    <string name="radiobutton_question_8_answer_1">кит;</string>
+    <string name="radiobutton_question_8_answer_2">дельфин;</string>
+    <string name="radiobutton_question_8_answer_3">кот;</string>
+    <string name="radiobutton_question_8_answer_4">пегас.</string>
+</resources>

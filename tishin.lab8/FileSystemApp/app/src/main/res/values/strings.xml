@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FileSystemApp</string>
+    <string name="button_sandbox">Внутренний накопитель</string>
+    <string name="button_external_storage">Флешка</string>
+    <string name="file_name">content.txt</string>
+    <string name="text_default">sample text</string>
+    <string name="text_external_storage_load_success">Данные были успешно загружены из файла
+        с флешки</string>
+    <string name="text_external_storage_load_fail">Ошибка загрузки данных из файла
+        с флешки</string>
+    <string name="text_external_storage_permission">Попробуйте снова, после разрешения</string>
+    <string name="text_external_storage_save_success">Данные были успешно сохранены в файл
+        на флешку</string>
+    <string name="text_external_storage_save_fail">Ошибка при сохранении данных в файл
+        на флешку</string>
+    <string name="text_file_not_found">Файл не найден</string>
+    <string name="text_sandbox_load_success">Данные были успешно загружены из файла
+        с внутреннего накопителя</string>
+    <string name="text_sandbox_load_fail">Ошибка загрузки данных из файла
+        с внутреннего накопителя</string>
+    <string name="text_sandbox_save_success">Данные были успешно сохранены в файл
+        на внутренний накопитель</string>
+    <string name="text_sandbox_save_fail">Ошибка при сохранении данных в файл
+        на внутренний накопитель</string>
+    <string name="text_sandbox_montage_fail">Внешний накопитель не смонтирован</string>
+    <string name="textview_edit">Изменение содержимого файла</string>
+    <string name="textview_load_text">Загрузить с выбранного носителя:</string>
+    <string name="textview_save_text">Сохранить на выбранный носитель:</string>
+    <string name="textview_viewing">Просмотр содержимого файла</string>
+</resources>

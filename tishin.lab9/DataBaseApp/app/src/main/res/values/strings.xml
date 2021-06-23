@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBaseApp</string>
+    <string name="button_add">Добавить</string>
+    <string name="button_edit">Редактировать</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_show">Показать данные</string>
+    <string name="text_empty"></string>
+    <string name="text_name">Имя:</string>
+    <string name="text_surname">Фамилия:</string>
+</resources>

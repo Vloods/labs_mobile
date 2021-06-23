@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+   <style name="MyProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+       <item name="colorAccent">@color/orange</item>
+   </style>
+</resources>

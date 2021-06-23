@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncApp</string>
+    <string name="button_exchange_rate">Проверить курс валют</string>
+    <string name="cbrf_request">http://www.cbr.ru/scripts/XML_daily.asp?date_req=%1$s</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="text_empty"></string>
+</resources>

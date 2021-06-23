@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MonitoringApp</string>
+    <string name="button_service_start">Запустить момиторинг папки</string>
+    <string name="button_service_stop">Остановить мониторинг</string>
+    <string name="button_add_file">Добавить новый файл</string>
+    <string name="file_name_template">file%1$d.txt</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous">Prev</string>
+    <string name="text_Na">Na:Na</string>
+    <string name="text_empty"></string>
+    <string name="text_separator">-</string>
+</resources>

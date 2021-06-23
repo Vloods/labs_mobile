@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmsApp</string>
+    <string name="button_send">Отправить</string>
+    <string name="text_empty"></string>
+    <string name="text_phone">Номер телефона:</string>
+    <string name="text_message">Текст сообщения:</string>
+
+</resources>
